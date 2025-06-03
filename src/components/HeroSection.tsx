@@ -32,7 +32,8 @@ const HeroSection = ({
   education = {
     institution: "M.P. Shah Arts & Science College",
     period: "July 2020 – May 2023",
-    degree: "Undergraduate",
+    // degree: "Undergraduate",
+    degree: "Bsc",
     university: "Saurashtra University",
   },
 }: HeroSectionProps) => {
